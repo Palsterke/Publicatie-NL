@@ -1,0 +1,379 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9",
+    "versionPublish": "2.9",
+    "name": "My Site vertaling",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Sara/Desktop/SITE%20NL",
+    "path": "file:///C:/Users/Sara/Desktop/moBirose/Defi%20versie",
+    "screenshot": "screenshot.png",
+    "favicon": ""
+  },
+  "pages": {
+    "nederlandseportfolio.html": {
+      "settings": {
+        "main": true,
+        "title": "Portfolio",
+        "meta_descr": "LUCA, beeldende kunst, schilderkunst, ",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sara Palsterman</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-5\">OVER HET WERK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery2-6\">PORTFOLIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\"><p>&nbsp;&nbsp;&nbsp;&nbsp;CONTACT</p></a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#4c6972",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_anchor": "header4-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-9400-2-5184x3456-15.jpg",
+            "bgColor": "#292929",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Sara Palsterman Portfolio",
+          "text": "Student beeldende kunsten in LUCA school of arts",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>&nbsp;l &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc/4.0/88x31.png\"></a><br>Deze werken valt onder een &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons Naamsvermelding-NietCommercieel 4.0 Internationaal-licentie</a>.<br><br>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#7c706b"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/tumblr-o19jg4vwdd1t96ni3o2-1280-1280x1920-69.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Over mijzelf en mijn kunst",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Ik studeer momenteel schilderkunst aan LUCA school of arts in Gent. Mijn werk ontstaat uitsluitend uit eigen beeldmateriaal van dieren en planten. Het mysterie staan vaak centraal in de schilderijen, aangezien ik heel erg hou van toevallige vondsten in bossen en foto's. Deze mysteries zijn er vaak zonder oplossingen, zodat ook ik niet weet hoe ze op te lossen.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html#content5-5\" data-toolbar=\"-mbrBtnMove\">Mijn werk<br></a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-5",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-9636-3-3746x982-51.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Kijk naar mijn werk",
+          "meta": "",
+          "text": "<p>Hier kan je een kijkje nemen in mijn schilderijen en kan je binnentreden in de wereld van mijn persoonlijke beelden. Sommige van mijn schilderijen zijn in boeken, dit is waar mijn grote werken worden geboren en gevormd. Andere werken zijn voornamelijk acrylverf en olieverf op hout of linnen.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Licht-donker studie naar konijn, inkt op papier, 21x29",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0559-3460x2433-93-2000x1406-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0559-3460x2433-93.jpg",
+                "active": false
+              },
+              {
+                "caption": "Studie naar eend, acryl- en olieverf op doek, 10x10",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0589-1806x1848-11-1806x1848-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0589-1806x1848-11.jpg",
+                "active": false
+              },
+              {
+                "caption": "Studie naar tropische vogel, acryl- en olieverf op papier, 15x24",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0593-3366x2082-79-2000x1237-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0593-3366x2082-79.jpg",
+                "active": false
+              },
+              {
+                "caption": "Studie naar eend 2 , acryl- en olieverf op doek, 10x10",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0590-2273x2263-56-2000x1991-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0590-2273x2263-56.jpg",
+                "active": false
+              },
+              {
+                "caption": "De hond, acryl- en olieverf op doek, 41x51",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0373-3264x2670-90-2000x1636-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0373-3264x2670-90.jpg",
+                "active": true
+              },
+              {
+                "caption": "Het hert, acryl- en olieverf op doek, 60x80",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0352-2975x3998-78-2000x2688-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0352-2975x3998-78.jpg",
+                "active": false
+              },
+              {
+                "caption": "Studie naar hert, olieverf op doek, 12x18",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0596-2461x3366-54-2000x2735-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0596-2461x3366-54.jpg",
+                "active": false
+              },
+              {
+                "caption": "Over bloemetjes en bijtjes, acryl- en olieverf op doek, 12 x18",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0594-2428x3335-49-2000x2747-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0594-2428x3335-49.jpg",
+                "active": false
+              },
+              {
+                "caption": "Studie naar varken, olieverf op doek, 12x18",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0595-3257x2376-4-2000x1459-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0595-3257x2376-4.jpg",
+                "active": false
+              },
+              {
+                "caption": "Het konijn, acryl- en oliever op doek, 60x80",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0670-3590x2674-21-2000x1490-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0670-3590x2674-21.jpg",
+                "active": false
+              },
+              {
+                "caption": "Valk, olieverf op doek, 24x18<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0561-1871x2457-51-1871x2457-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0561-1871x2457-51.jpg",
+                "active": false
+              }
+            ],
+            "showText": true,
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-6",
+          "articleLayout": true
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT FORMULIER",
+          "form": {
+            "action": "sara.palsterman@gmail.com",
+            "alerts": {
+              "success": "Bedankt om het formulier in te vullen! Ik antwoord wo snel mogenlijk."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Naam*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefoon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEER MIJ!</a>"
+        },
+        {
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "Deel deze pagina!"
+        }
+      ]
+    }
+  }
+}
